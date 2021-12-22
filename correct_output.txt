@@ -1,0 +1,6 @@
+Searching for "zuezgwqtthw" in matrix 0 yields:
+The pattern was not found.
+
+Searching for "izttcnzfmfix" in matrix 1 yields:
+The pattern was not found.
+
